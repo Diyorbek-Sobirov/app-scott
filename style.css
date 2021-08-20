@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body{
+    /* min-width: 576vh; */
+}
+.header{
+    background-image: url(./img/scoot1.jpg);
+    width: 1440px;
+    height:650px;
+    background-repeat: no-repeat;
+}
