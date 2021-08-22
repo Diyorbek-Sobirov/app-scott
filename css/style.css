@@ -1,0 +1,156 @@
+*{
+padding: 0;
+margin: 0;
+}
+ul, ol {
+list-style: none;
+}
+
+a{
+text-decoration: none;
+}
+.container{
+margin: auto;
+width: 1140px;
+}
+body{
+box-sizing: border-box;
+}
+.header{
+height: 100vw;
+height: 96px;
+position: sticky;
+top: 0;
+background-color: white;
+}
+.nav__button{
+border-style: hidden;
+width: 165px;
+height: 50px;
+background-color: #FCB72B;
+color: #fff;
+}
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 30px 0;
+}
+.location{
+margin-right: 510px;
+}
+.location_menu{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.header__list a{
+margin: 0 30px;
+color: darkgray;
+font-weight: bold;
+font-size: 20px;
+}
+
+.section{
+background-image: url(/img/Bitmap.jpg);
+height: 100vh;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.body__item{
+font-style: normal;
+font-weight: bold;
+font-size: 56px;
+line-height: 66px;
+color: #fff;
+width: 510px;
+font-weight: 700;
+position: absolute;
+top: 230px;
+}
+.body__text{
+    color: #fff;
+position: absolute;
+width: 335px;
+height: 100px;
+left: 360px;
+top: 391px;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 25px;
+}
+.path1{
+position: absolute;
+width: 447px;
+height: 138px;
+left: 805px;
+top: 451px;
+}
+.path2{
+position: absolute;
+width: 300px;
+height:15px;
+top: 443px;
+}
+.body__button{
+position: absolute;
+border-style: hidden;
+width: 165px;
+height: 50px;
+background-color: #FCB72B;
+color: #fff;
+top: 543px;
+left: 360px;
+}
+.main__img1{
+position: absolute;
+width: 974px;
+height: 8px;
+left: 0px;
+top: 954px;
+}
+.main__img2{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 925px;
+top: 906px;
+}
+.main__img3{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 545px;
+top: 906px;
+}
+.main__img4{
+position: absolute;
+width: 96px;
+height: 96px;
+left: 165px;
+top: 906px;
+}
+.container__2{
+margin: auto;
+width: 1140px;
+}
+.main__text p{
+/* position: absolute; */
+width: 350px;
+height: 28px;
+margin-top:50px;
+color: darkgray;
+font-weight: bold;
+}
+.main__title{
+position: absolute;
+display: flex;
+text-align: center;
+justify-content:space-between;
+align-items: center;
+top: 1042px;
+
+
+}
+
